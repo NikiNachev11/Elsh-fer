@@ -1,0 +1,12 @@
+header a {
+  text-decoration:none;
+  border:3px dotted blue;
+  padding:5px 10px;
+}
+img{
+  margin-left: 10px;
+}
+footer{
+  background-color:green;
+  border-top:5px dashed blue;
+  )
